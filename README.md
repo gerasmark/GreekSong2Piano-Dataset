@@ -9,7 +9,6 @@ The GreekSong2Piano dataset contains 659 Greek songs paired with their correspon
 **Dataset Statistics:**
 - **Size**: 659 song-cover pairs
 - **Duration**: 41 hours of music
-- **Storage**: 42 GB
 - **Genres**: 8 Greek musical genres
 - **Formats**: Audio (WAV) and symbolic (MIDI)
 
